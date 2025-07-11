@@ -1,16 +1,59 @@
 ## Hi there 👋
+# 👨‍💻 Abbas Chitsazi
 
-<!--
-**AbasChitsazi/AbasChitsazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHP Mid-Level Developer** | Bug Bounty Hunter | Laravel & MVC Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate PHP developer who loves building clean, lightweight frameworks and learning about web security. Recently built [Mikro MVC Framework](https://github.com/AbasChitsazi/micro-mvc-framework), a custom PHP MVC framework with routing, middleware, and dual DB support.
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** PHP, JavaScript, HTML/CSS
+- **Frameworks:** Laravel, Mikro MVC (custom)
+- **Database:** MySQL, JSON-DB
+- **Tools:** Git, Composer, VS Code, Postman
+- **Security:** Bug Bounty, Access Control, IP-based filtering
+
+---
+
+## 🛠 Notable Projects
+
+### [🔗 Mikro MVC Framework](https://github.com/AbasChitsazi/micro-mvc-framework)
+A lightweight PHP MVC framework with routing, middleware, IP control, and custom error pages.
+
+---
+
+### [🌐 Iran Provinces And Cities API](https://github.com/AbasChitsazi/Iran-Provinces-And-Cities-API)
+A RESTful API that provides structured data listing all provinces and cities of Iran. Built with PHP for easy integration in web or mobile applications.
+
+---
+
+### [📥 Export Program with OOP](https://github.com/AbasChitsazi/Export-Program-with-oop)
+A desktop (or CLI) tool in PHP that exports data in various formats—designed with Object-Oriented principles for better maintainability and extensibility.
+
+---
+
+### [🗺 Map](https://github.com/AbasChitsazi/Map)
+A mapping utility (web-based or script) that visualizes geographic data or locations. Focuses on clean UI and simple integration.
+
+---
+
+### [✅ Task Manager](https://github.com/AbasChitsazi/TaskManager)
+A task manager application with features to add, update, delete, and track tasks. A full-stack project demonstrating MVC principles, data handling, and user interface.
+
+
+
+
+
+
+---
+
+## 📫 Contact Me
+
+- Email: abaschitsazii@gmail.com
+- GitHub: [@AbasChitsazi](https://github.com/AbasChitsazi)
