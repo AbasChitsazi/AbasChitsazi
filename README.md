@@ -15,10 +15,10 @@ I’m always excited to take on new challenges and build useful projects.
 ## 🔧 Tech Stack
 
 - **Languages:** PHP, JavaScript, HTML/CSS
-- **Frameworks:** Laravel, Mikro MVC (custom)
-- **Database:** MySQL, JSON-DB
-- **Tools:** Git, Composer, VS Code, Postman
-- **Security:** Bug Bounty, Access Control, IP-based filtering
+- **Frameworks:** Laravel
+- **Database:** MySQL
+- **Tools:** Git, Composer, VS Code, Postman 
+
 
 ---
 
