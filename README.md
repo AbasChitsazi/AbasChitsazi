@@ -7,7 +7,7 @@
 
 🚀 About Me
 
-I’m a PHP developer who loves building clean and simple apps that actually help people. I enjoy learning new things and improving my skills every day. Recently, I focused on making a [Job Board - Laravel Application](https://github.com/AbasChitsazi/jobBoard) with Laravel that’s easy to use and looks great on any device.
+I’m a PHP developer who loves building clean and simple apps that actually help people. I enjoy learning new things and improving my skills every day. Recently, I focused on making a [Job Board - Laravel Application](https://github.com/AbasChitsazi/MicroJobBoard) with Laravel that’s easy to use and looks great on any device.
 I’m always excited to take on new challenges and build useful projects.
 
 ---
@@ -24,7 +24,7 @@ I’m always excited to take on new challenges and build useful projects.
 
 ## 🛠 Notable Projects
 
-### [🚀 Job Board - Laravel Application](https://github.com/AbasChitsazi/jobBoard)
+### [🚀 Job Board - Laravel Application](https://github.com/AbasChitsazi/MicroJobBoard)
 A modern job board application built with Laravel that allows employers to post job opportunities and job seekers to apply for positions. The application features a clean, responsive interface with advanced filtering capabilities.
 
 ---
