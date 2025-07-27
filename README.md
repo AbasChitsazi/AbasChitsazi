@@ -23,6 +23,11 @@ I'm a passionate PHP developer who loves building clean, lightweight frameworks 
 
 ## 🛠 Notable Projects
 
+### [🚀 Job Board - Laravel Application](https://github.com/AbasChitsazi/jobBoard)
+A modern job board application built with Laravel that allows employers to post job opportunities and job seekers to apply for positions. The application features a clean, responsive interface with advanced filtering capabilities.
+
+---
+
 ### [🔗 Mikro MVC Framework](https://github.com/AbasChitsazi/micro-mvc-framework)
 A lightweight PHP MVC framework with routing, middleware, IP control, and custom error pages.
 
