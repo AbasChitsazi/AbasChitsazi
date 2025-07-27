@@ -1,13 +1,14 @@
 ## Hi there 👋
 # 👨‍💻 Abbas Chitsazi
 
-**PHP Mid-Level Developer** | Bug Bounty Hunter | Laravel & MVC Enthusiast
+**PHP Mid-Level Developer** | Laravel & MVC Enthusiast
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a passionate PHP developer who loves building clean, lightweight frameworks and learning about web security. Recently built [Mikro MVC Framework](https://github.com/AbasChitsazi/micro-mvc-framework), a custom PHP MVC framework with routing, middleware, and dual DB support.
+I’m a PHP developer who loves building clean and simple apps that actually help people. I enjoy learning new things and improving my skills every day. Recently, I focused on making a [Job Board - Laravel Application](https://github.com/AbasChitsazi/jobBoard) with Laravel that’s easy to use and looks great on any device.
+I’m always excited to take on new challenges and build useful projects.
 
 ---
 
